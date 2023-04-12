@@ -1,0 +1,13 @@
+body{
+    color: magenta;
+    background-color: aqua;
+}
+.heading{
+    width:80%;
+    font-size: medium;
+}
+#camera{
+    border: 2px dotted black;
+    width: 350px;
+    height:400px;
+}
